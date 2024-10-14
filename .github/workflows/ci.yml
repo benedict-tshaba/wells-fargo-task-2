@@ -12,6 +12,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    destribution: ubuntu-latest
 
     steps:
     - name: Checkout code
